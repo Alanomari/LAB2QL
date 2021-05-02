@@ -1,0 +1,2 @@
+# LAB2QL
+LAB 2 för ITHS i SSMS
